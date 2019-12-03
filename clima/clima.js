@@ -16,6 +16,8 @@ const obtenerClima = async(lat, lon) => {
     }
 }
 
+
+
 module.exports = {
     obtenerClima
 }
